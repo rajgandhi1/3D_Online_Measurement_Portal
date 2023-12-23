@@ -2,10 +2,10 @@
 
 Advanced JavaScript 3D models viewing control with interactive measurements
 
+### Live Demo ###
+https://rajgandhi1.github.io/3D_Online_Measurement_Portal/
+
 ### Usage ###
-
-#TODO add live view and gif for demo.
-
 ```
 cd <path to repository>
 
